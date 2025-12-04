@@ -19,20 +19,18 @@
 - 😝 [Network Anomaly Detection](https://github.com/cloud-zby/Network_Anomaly_Detection.git): Subspace and Deep Feature Network Fusion for Outlier Detection in High-Dimensional Network Scenarios.
 
 
-## 🎈  Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-zby&layout=compact&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-zby&layout=compact&theme=tokyonight)
-
+## 🎈  Followers
 ![Followers](https://img.shields.io/github/followers/cloud-zby?label=Followers&style=social)
 
 ## 💪 My Github Status Card
-[![ZBY's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-zby&show_icons=true&theme=merko)]()
-![ZBY's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-zby&show_icons=true&theme=merko)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cloud-zby)
-![Trophy](https://github-profile-trophy.vercel.app/?username=cloud-zby&theme=dark)
+
 
 
 ## 🏀 Activities
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cloud-zby&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]()
+
+
+
 ![Streak](https://streak-stats.demolab.com?user=cloud-zby&theme=dark)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=cloud-zby&theme=github)
+
