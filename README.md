@@ -22,8 +22,10 @@
 ## 🎈  Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-zby&layout=compact&theme=tokyonight)
 
+
 ## 💪 My Github Status Card
 [![ZBY's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-zby&show_icons=true&theme=merko)]()
+![ZBY's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-zby&show_icons=true&theme=merko)
 
 ## 🏀 Activities
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cloud-zby&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]()
