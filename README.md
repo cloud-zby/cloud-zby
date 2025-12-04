@@ -3,10 +3,10 @@
 ### My personal homepage: [https://cloud-zby.github.io](https://cloud-zby.github.io)! Welcome!
 
 ## 🌏 My Contribution Heatmap
-![](https://github.com/cloud-zhoubingye/cloud-zhoubingye/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/cloud-zby/cloud-zby/blob/output/github-contribution-grid-snake.svg)
 
 ## 👀 Homepage Visits
-![Visitor Count](https://komarev.com/ghpvc/?username=cloud-peterjohn&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=cloud-zby&style=flat-square)
 
 ## 💡 Projects
 
