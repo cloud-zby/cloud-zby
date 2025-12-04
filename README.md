@@ -6,7 +6,7 @@
 ![](https://github.com/cloud-zhoubingye/cloud-zhoubingye/blob/output/github-contribution-grid-snake.svg)
 
 ## 👀 Homepage Visits
-![Visitor Count](https://komarev.com/ghpvc/?username=cloud-zby&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=cloud-peterjohn&style=flat-square)
 
 ## 💡 Projects
 
