@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, this is Ping-Yeh Chou! 🥺 ᓚᘏᗢ</h1>
+<h1 align="center">Hi👋! 🥺 ᓚᘏᗢ</h1>
 
 
 ## 🌏 My Contribution Heatmap
